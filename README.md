@@ -33,6 +33,8 @@ to think, test & finalize via digital sketching. We made Low-Fidelity
 mockups of every page in the app showing the scale & placement of everything
 within the page.
 
+<img width="804" alt="Screenshot 2022-04-26 at 7 19 10 PM" src="https://user-images.githubusercontent.com/102501551/165317621-f37dd571-fbcb-46d7-8d08-2ad98db4cb6c.png">
+
 ### Wireframing & User Testing 
 
 These Low-Fidelity Mockup pages were connected via wireframes &
@@ -61,10 +63,7 @@ Link for Desktop App - https://www.figma.com/proto/IQIL716PRanXL0LG3GWuc5/Vault-
 
 Link for Mobile App - https://www.figma.com/proto/4JmcBANtY9KSFdXTLhjFpd/Vault-Mobile-Hi-Fi?page-id=13%3A1559&node-id=19%3A2861&viewport=379%2C48%2C0.17&scaling=scale-down&starting-point-node-id=16%3A2458
 
-## Screenshots
 
-![Low-Fidelity Mobile](<img width="804" alt="Screenshot 2022-04-26 at 7 19 10 PM" src="https://user-images.githubusercontent.com/102501551/165316703-a0a2f4c6-88d9-4167-8d0e-af11b04c49fa.png">
-)
 
 
 
