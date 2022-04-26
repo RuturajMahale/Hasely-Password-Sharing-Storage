@@ -35,6 +35,8 @@ within the page.
 
 <img width="804" alt="Screenshot 2022-04-26 at 7 19 10 PM" src="https://user-images.githubusercontent.com/102501551/165317621-f37dd571-fbcb-46d7-8d08-2ad98db4cb6c.png">
 
+<img width="1454" alt="Screenshot 2022-04-26 at 7 20 40 PM" src="https://user-images.githubusercontent.com/102501551/165317976-fde51e57-b641-400e-948e-b4addae749c8.png">
+
 ### Wireframing & User Testing 
 
 These Low-Fidelity Mockup pages were connected via wireframes &
